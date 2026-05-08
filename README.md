@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=Azeem%20Sajjad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%Developer&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=Azeem%20Sajjad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=60&descAlign=50" />
 
 # 👋 Hey, I'm Azeem Sajjad
 
@@ -91,10 +91,12 @@ A modern OTT-style streaming platform inspired by Netflix with responsive UI and
 ✅ Authentication System  
 
 ### 🛠 Tech Stack
-- Angular
+- React
 - Node.js
+- Express
+- PostgreSQL
+- DaisyUI
 - Tailwind CSS
-- Streaming APIs
 
 ---
 
@@ -113,11 +115,10 @@ Advanced video streaming platform capable of streaming large videos smoothly wit
 ✅ Scalable Backend Architecture  
 
 ### 🛠 Tech Stack
+- React
 - Node.js
 - Express
-- Angular
-- Stream APIs
-- Chunk Processing
+- Tailwind CSS
 
 ---
 
@@ -149,8 +150,7 @@ Advanced video streaming platform capable of streaming large videos smoothly wit
 Working with **SIDBI Bank** on enterprise-level applications and scalable banking solutions.
 
 ### Responsibilities
-- Building enterprise Angular applications
-- Designing scalable backend APIs
+- Building enterprise Angular/React applications
 - Performance optimization
 - Secure authentication systems
 - Financial dashboard development
