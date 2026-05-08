@@ -1,17 +1,29 @@
 <!-- PROFILE HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=Azeem%20Sajjad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=260&section=header&text=Azeem%20Sajjad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20%7C%20Angular%20%7C%20React%20%7C%20Node.js&descAlignY=60&descAlign=50" />
 
 # 👋 Hey, I'm Azeem Sajjad
 
-### 🚀 Software Developer from India
+### 🚀 Senior Full Stack Developer from India
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Developer;Angular+Developer;React+Developer;Node.js+Backend+Engineer;Building+Scalable+Platforms;Video+Streaming+Expert;Cloud+Storage+System+Developer" />
+</p>
+
+<p align="center">
+
   <a href="https://github.com/azeemsajjadlearning">
     <img src="https://img.shields.io/github/followers/azeemsajjadlearning?label=Followers&style=for-the-badge&color=2563eb" />
   </a>
 
+  <img src="https://komarev.com/ghpvc/?username=azeemsajjadlearning&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/stars/azeemsajjadlearning?style=for-the-badge" />
+
+</p>
+
+<p align="center">
   <a href="https://code.codewithazeem.xyz/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
@@ -34,7 +46,8 @@
 💻 Senior Full Stack Developer with 6+ years of experience building scalable enterprise applications and modern web platforms.
 
 🔥 Specialized in:
-- Angular & Node.js Ecosystems
+- Angular & React Ecosystems
+- Node.js Backend Development
 - Enterprise SaaS Applications
 - Video Streaming Platforms
 - Cloud Storage Systems
@@ -45,6 +58,40 @@
 🏦 Currently working with **NISG** for **SIDBI Bank** as a **Senior Full Stack Developer**.
 
 ⚡ Passionate about building high-performance systems with clean architecture, optimized APIs, modern UI/UX, and seamless streaming experiences.
+
+---
+
+# 🚀 Tech Stack
+
+## 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,tailwind,bootstrap,html,css,js,ts" />
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,nestjs,python" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
+</p>
+
+---
+
+## 🛠 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jenkins,docker" />
+</p>
 
 ---
 
@@ -68,11 +115,10 @@ A powerful all-in-one platform built with Angular and Node.js providing multiple
 ✅ RBAC Authentication & Authorization  
 
 ### 🛠 Tech Stack
-- Angular
-- Node.js
-- PostgreSQL / MongoDB
-- Tailwind CSS
-- REST APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,postgres,mongodb,tailwind" />
+</p>
 
 ---
 
@@ -91,12 +137,14 @@ A modern OTT-style streaming platform inspired by Netflix with responsive UI and
 ✅ Authentication System  
 
 ### 🛠 Tech Stack
-- React
-- Node.js
-- Express
-- PostgreSQL
-- DaisyUI
-- Tailwind CSS
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,tailwind" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+</p>
 
 ---
 
@@ -115,10 +163,10 @@ Advanced video streaming platform capable of streaming large videos smoothly wit
 ✅ Scalable Backend Architecture  
 
 ### 🛠 Tech Stack
-- React
-- Node.js
-- Express
-- Tailwind CSS
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+</p>
 
 ---
 
@@ -137,6 +185,36 @@ Advanced video streaming platform capable of streaming large videos smoothly wit
 ✅ Folder Management  
 ✅ Smart Search  
 ✅ Download Reconstruction  
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,mongodb,tailwind" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=azeemsajjadlearning&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=azeemsajjadlearning&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeemsajjadlearning&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
