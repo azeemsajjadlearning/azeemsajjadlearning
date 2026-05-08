@@ -1,18 +1,18 @@
 <!-- PROFILE HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=Azeem%20Sajjad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Angular%20%7C%20Node.js%20%7C%20Django&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=Azeem%20Sajjad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%Developer&descAlignY=60&descAlign=50" />
 
 # 👋 Hey, I'm Azeem Sajjad
 
-### 🚀 Senior Full Stack Developer from India
+### 🚀 Software Developer from India
 
 <p align="center">
   <a href="https://github.com/azeemsajjadlearning">
     <img src="https://img.shields.io/github/followers/azeemsajjadlearning?label=Followers&style=for-the-badge&color=2563eb" />
   </a>
 
-  <a href="https://wah-wah-productions.web.app/">
+  <a href="https://code.codewithazeem.xyz/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 
@@ -31,52 +31,95 @@
 
 # 💫 About Me
 
-💻 Full Stack Developer with 6+ years of experience building scalable enterprise applications.
+💻 Senior Full Stack Developer with 6+ years of experience building scalable enterprise applications and modern web platforms.
 
-🔥 Passionate about:
+🔥 Specialized in:
+- Angular & Node.js Ecosystems
+- Enterprise SaaS Applications
+- Video Streaming Platforms
 - Cloud Storage Systems
-- Angular Applications
-- Node.js APIs
-- Django Backend Systems
-- Financial Dashboards
-- SaaS Platforms
-- Automation Tools
+- RBAC & Authentication Systems
+- Financial & Analytics Dashboards
+- Real-Time Applications
 
-🏦 Currently working with **SIDBI Bank**
+🏦 Currently working with **NISG** for **SIDBI Bank** as a **Senior Full Stack Developer**.
 
-⚡ I love building production-grade systems with clean UI, optimized backend architecture, and real-time functionality.
-
----
-
-# 🚀 Tech Stack
-
-## 🎨 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,react,tailwind,bootstrap,html,css,js,ts" />
-</p>
-
-## ⚙️ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,nestjs,python" />
-</p>
-
-## 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-## 🛠 Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jenkins,firebase" />
-</p>
+⚡ Passionate about building high-performance systems with clean architecture, optimized APIs, modern UI/UX, and seamless streaming experiences.
 
 ---
 
 # 🏆 Featured Projects
+
+## 🌐 Multi Utility Angular + Node.js Platform
+
+🔗 https://code.codewithazeem.xyz/
+
+A powerful all-in-one platform built with Angular and Node.js providing multiple real-time utilities and services.
+
+### 🚀 Features
+✅ Live Cricket Scores  
+✅ To-Do Management  
+✅ IMDb Movie Details  
+✅ GSM Arena Mobile Specifications  
+✅ Google Sheets Investment Tracking  
+✅ Railway Information System  
+✅ Mutual Fund Updates  
+✅ Password Recovery System  
+✅ RBAC Authentication & Authorization  
+
+### 🛠 Tech Stack
+- Angular
+- Node.js
+- PostgreSQL / MongoDB
+- Tailwind CSS
+- REST APIs
+
+---
+
+## 🎬 Netflix Like Streaming Platform
+
+🔗 https://bingebox.codewithazeem.xyz/
+
+A modern OTT-style streaming platform inspired by Netflix with responsive UI and optimized streaming experience.
+
+### 🚀 Features
+✅ OTT Style Interface  
+✅ Responsive Design  
+✅ Fast Video Loading  
+✅ Smooth Navigation  
+✅ Dynamic Content Management  
+✅ Authentication System  
+
+### 🛠 Tech Stack
+- Angular
+- Node.js
+- Tailwind CSS
+- Streaming APIs
+
+---
+
+## ⚡ High Performance Video Streaming Platform
+
+🔗 https://downloader.codewithazeem.xyz/
+
+Advanced video streaming platform capable of streaming large videos smoothly without buffering or playback hiccups.
+
+### 🚀 Features
+✅ Buffer-Free Streaming  
+✅ Chunk-Based Video Streaming  
+✅ Optimized Video Delivery  
+✅ High Speed Downloads  
+✅ Resume Download Support  
+✅ Scalable Backend Architecture  
+
+### 🛠 Tech Stack
+- Node.js
+- Express
+- Angular
+- Stream APIs
+- Chunk Processing
+
+---
 
 ## ☁️ Telegram Cloud Storage Platform
 
@@ -86,7 +129,7 @@
 - MongoDB
 - Telegram API
 
-### Features
+### 🚀 Features
 ✅ Chunked Uploads  
 ✅ File Encryption  
 ✅ Video Streaming  
@@ -96,76 +139,30 @@
 
 ---
 
-## 💰 Salary & Tax Calculator
-
-📊 Smart tax calculation system with:
-- Old vs New Tax Regime
-- HRA Calculations
-- Excel Export
-- Investment Tracking
-- Responsive Dashboard
-
----
-
-## 🎓 LMS Platform
-
-📚 Learning Management System serving thousands of students.
-
-### Built With
-- Angular
-- Tailwind CSS
-- PostgreSQL
-
-### Features
-✅ Course Management  
-✅ Analytics Dashboard  
-✅ Secure Authentication  
-✅ Real-Time Tracking  
-
----
-
-## 📞 CRM & Call Routing System
-
-☎️ Enterprise CRM platform with:
-- Priority-based call routing
-- Lead management
-- Exotel integration
-- PostgreSQL backend
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=azeemsajjadlearning&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=azeemsajjadlearning&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeemsajjadlearning&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 # 🏢 Professional Experience
+
+## 🏦 NISG
+### Sr. Full Stack Developer
+📍 India  
+📅 May 2026 – Present
+
+Working with **SIDBI Bank** on enterprise-level applications and scalable banking solutions.
+
+### Responsibilities
+- Building enterprise Angular applications
+- Designing scalable backend APIs
+- Performance optimization
+- Secure authentication systems
+- Financial dashboard development
+
+---
 
 ## 🏦 Infoneotech
 ### Sr. Full Stack Developer
 📍 Noida, India  
-📅 Feb 2024 – Present
+📅 Feb 2024 – Apr 2026
 
-Working on enterprise solutions for **SIDBI Bank**.
+Worked for **SIDBI Bank** on enterprise banking solutions and internal platforms.
 
 ---
 
